@@ -110,10 +110,10 @@ max_date = day_df["dteday"].max()
 
 with st.sidebar:
 
-  st.title("Baik Sharing dataset")
+  st.title("Bike Sharing dataset")
   title_alignment="""
 <style>
-#baik-sharing-datasets {
+#bike-sharing-datasets {
   text-align: center
 }
 </style>
